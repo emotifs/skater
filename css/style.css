@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Rubik';
+    scroll-behavior: smooth;
+    list-style: none;
+}
+
+.content-box-lg{
+    padding: 180px 0;
+}
+
+.content-box-md{
+    padding: 150px 0;
+}
+
+.content-box-sm{
+    padding: 100px 0;
+}
+
+.content-box{
+    padding: 80px 0;
+}
+
+.content{
+    padding: 40px 0;
+}
+
+.carousel-item {
+  height: 90vh;
+}
+
+.carousel-image-1 {
+  background:  linear-gradient(rgb(0,0,0, .6), rgb(0,0,0, .6)),url('../images/hero_3.jpg');
+  background-size: cover;
+  background-position: top;
+}
+
+.carousel-image-2 {
+  background: linear-gradient(rgb(0,0,0, .6), rgb(0,0,0, .6)),url('../images/hero_2.jpg');
+  background-size: cover;
+}
+
+.font-oswald{
+    font-family: 'Oswald';
+}
+
+.bg-darks{
+    background-color: #222222;
+}
+
+.txt-warning{
+    color: #FF7C0E;
+}
+
+.flex{
+    display: flex;
+}
+
+.odno{
+    background-color: #222222;
+
+}
+
+.Webs{
+    background: url('../images/hero_2.jpg');
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+}
+.sonlar{
+    text-align: center;
+}
+.son{
+    font-size: 85px;
+    color: #FF8B00;
+}
+.otish{
+    width: 70px;
+    border: 2px solid gray;
+    padding-left: 20px;
+}
+.soz{
+    font-size: 20px;
+    color: white;
+}
+
+.olok{
+    background-color: #222222;
+}
+
+#MAlumot{
+    background-color: #222222;
+}
+
+.team{
+    color: #FF8B00;
+    font-size: 50px;
+    font-family: "Oswald", sans-serif;
+}
+
+.Paragrif{
+    color: #939393;
+}
+
+.rasm{
+    width: 130px;
+    border-radius: 50%;
+    margin-left: 87px;
+}
+.o{
+    background-color: #333333;
+    padding: 20px 20px;
+    
+}
+.ode{
+    color: #FF8B00;
+    font-family: "Oswald", sans-serif;
+    
+
+}
+
+.tri{
+    color: #939393;
+}
+
+#Ma{
+    background-color: #222222;
+}
+.no{
+    color: white;
+    font-family: "Oswald", sans-serif;
+}
+.te{
+    color: #939393;
+}
+.pul{
+    font-size: 60px;
+    color: #FF8B00;
+}
+.oo{
+    background-color: #333333;
+}
+.noma{
+    color: #939393;
+}
+.list-unstyled{
+    list-style: none;
+    padding-left: 20px;
+    
+    text-align: left;
+}
+
+.btn-md{
+    padding: 8px 20px;
+}
+.btn-mdD{
+    padding: 8px 20px;
+    background-color: #FF8B00;
+}
